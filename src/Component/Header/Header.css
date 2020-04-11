@@ -1,0 +1,22 @@
+.header_logo{
+    width: 100%;
+    text-align: center;
+   
+}
+.header_logo img{
+    width: 30%;
+    
+}
+.header_logo nav{
+    background: black;
+    padding: 10px;
+    text-align: left;
+}
+.header_logo nav a{
+    color:white;
+    text-decoration: none;
+    margin: 20px;
+    font-size: 20px;
+    
+
+}

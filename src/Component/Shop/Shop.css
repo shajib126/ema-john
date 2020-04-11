@@ -1,0 +1,18 @@
+.shop-container{
+    display: flex;
+    width: 100%;
+}
+.product-container{
+    width: 70%;
+    margin-left: 30px;
+    margin-right: 20px;
+    border-right: 1px solid lightblue;
+    
+}
+.product-container ul{
+    list-style: none;
+    
+}
+.product-container ul li{
+    border-bottom: 1px solid lightblue;
+}
